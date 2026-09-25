@@ -1,0 +1,16 @@
+{
+  "name": "cd",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [
+    "c"
+  ],
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "cd"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
